@@ -119,13 +119,16 @@ mark {
   padding: 0 !important;
 }
 mark.hebrew {
-  font-size: 1rem;
+  font-size: 1.05rem;
   background-color: unset;
   font-family: hebrewfont, sans-serif;
   /* font-family: Arial, hebrewfont, sans-serif; */
+  /* font-family: Arial, Helvetica, sans-serif; */
 }
 mark.greek {
   background-color: unset;
+  /* font-family: Arial; */
+  font-size: 1rem;
   font-family: greekfont;
 }
 
