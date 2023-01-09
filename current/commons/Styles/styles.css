@@ -1,0 +1,216 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+p.para,
+p.preface-title,
+.preface-sub,
+.preface-para,
+.preface-para2,
+.nav-list,
+.nav-book-page,
+.part-nav,
+.nav-info,
+.book-nav {
+  font-family: content-font, greekfont, Arial, hebrewfont, sans-serif !important;
+  line-height: 2em;
+}
+p.para,
+/* p.sample-para, */
+.preface-para,
+.preface-para2,
+.preface-sub {
+  text-indent: 2rem;
+  line-height: 2em;
+}
+p.para {
+  text-indent: 1.4rem;
+}
+p.preface-para,
+p.preface-title,
+.preface-para,
+.preface-para2,
+.preface-sub,
+.nav-book-page,
+.nav-list,
+.nav-info,
+.remark {
+  /* font-family: greekfont, Arial, hebrewfont, preface-font, sans-serif !important; */
+  font-family: content-font, greekfont, Arial, hebrewfont, sans-serif !important;
+  /* font-weight: lighter; */
+}
+.preface-para2 {
+  /* white-space: break-spaces; */
+  tab-size: 16;
+}
+p.sample-para {
+  font-family: comment-font, greekfont, Arial, hebrewfont, sans-serif !important;
+}
+p.sample-para-indent {
+  text-indent: 2rem;
+}
+
+.nav-book-page {
+  width: 100%;
+  margin-bottom: 2em;
+}
+.nav-book-page .f0 {
+  white-space: nowrap;
+  padding-right: 1em;
+}
+
+.part-nav li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  /* text-align: center; */
+}
+
+.book {
+  text-align: center;
+  font-family: greekfont, Arial, hebrewfont, title-font, sans-serif;
+}
+
+.book-nav {
+  width: 100%;
+}
+.book-nav td {
+  padding: 2px;
+}
+
+.preface-sub {
+  font-weight: bold;
+  font-size: 120%;
+  text-indent: 0 !important;
+}
+
+.preface-title {
+  text-align: center;
+  font-size: 2.2em;
+  font-weight: bold;
+}
+.remark {
+  font-size: 80%;
+}
+
+.title {
+  font-family: title-font, greekfont, Arial, hebrewfont, sans-serif;
+  margin: 50vh 0 0 0;
+  text-align: center;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+.comment {
+  font-family: content-font, greekfont, Arial, hebrewfont, sans-serif;
+  text-align: left;
+  font-size: 0.8em;
+  padding-left: 4em;
+  line-height: 2em;
+}
+.comment-list {
+  font-family: content-font, greekfont, Arial, hebrewfont, sans-serif;
+  padding-left: 8em;
+  font-size: 0.8em;
+  line-height: 2em;
+}
+mark {
+  padding: 0 !important;
+}
+mark.hebrew {
+  font-size: 1rem;
+  background-color: unset;
+  font-family: hebrewfont, sans-serif;
+  /* font-family: Arial, hebrewfont, sans-serif; */
+}
+mark.greek {
+  background-color: unset;
+  font-family: greekfont;
+}
+
+.book-link {
+  color: unset;
+}
+
+sup {
+  font-size: 0.5em !important;
+  vertical-align: super !important;
+}
+
+cite {
+  font-family: comment-font, greekfont, Arial, hebrewfont, sans-serif;
+  font-style: normal;
+  font-size: 0.8em;
+}
+
+.para.addition {
+  font-size: 0.7em;
+  font-family: comment-font, greekfont, Arial, hebrewfont, sans-serif !important;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  padding-left: 4em;
+}
+
+/* .comment, cite { display: none;} */
+
+p {
+  margin: revert;
+}
+
+/* 旧约引用 */
+.ot-refs {
+  padding-left: 4em;
+  line-height: 2em;
+  margin-bottom: 1rem;
+}
+h1 {
+  font-size: 2.8em;
+}
+
+h2 {
+  font-size: 2.4em;
+}
+
+h3 {
+  font-size: 2.2em;
+}
+h4 {
+  font-size: 1.8em;
+}
+
+.old {
+  /* font-size: 1.2em; */
+}
+
+td {
+  font-size: revert;
+  vertical-align: top;
+}
+
+.nav-sub {
+  font-weight: bold;
+}
+
+.nav-item {
+  text-indent: 2em;
+}
+.nav-index {
+  padding-right: 1.5em;
+}
+
+b.ref {
+  /* padding-right: 4em; */
+  font-weight: normal;
+}
+.chapter {
+  /* letter-spacing: 0.2em; */
+}
+b.old {
+  /* letter-spacing: 0.2em; */
+  padding-right: 0.2em;
+  /* font-weight: normal; */
+}
+.ti2 {
+  text-indent: 2em;
+}

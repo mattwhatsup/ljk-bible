@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:language>en</dc:language>
+    <dc:language>zh-tw</dc:language>
+    <dc:title>新約聖經(註釋版)</dc:title>
+    <dc:creator opf:role="aut">梁家鏗譯本</dc:creator>
+    <meta content="0.9.10" name="Sigil version" />
+    <dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2023-01-06</dc:date>
+    <meta content="true" name="ibooks:specified-fonts" />
+    <meta name="cover" content="cover.jpg" />
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:55dde361-3a3f-4c81-98cd-f62c0fcf2ecc</dc:identifier>
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="styles.css" href="Styles/styles.css" media-type="text/css"/>
+    <item id="fonts.css" href="Styles/fonts.css" media-type="text/css"/>
+    <item id="info.xhtml" href="Text/info.xhtml" media-type="application/xhtml+xml"/>
+    <item id="preface.xhtml" href="Text/preface.xhtml" media-type="application/xhtml+xml"/>
+    <item id="reference.xhtml" href="Text/reference.xhtml" media-type="application/xhtml+xml"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml"/>
+    <item id="segoeuisl.ttf" href="Fonts/segoeuisl.ttf" media-type="application/x-font-ttf"/>
+    <item id="Helvetica.ttf" href="Fonts/Helvetica.ttf" media-type="application/x-font-ttf"/>
+
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg"/>
+    <item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>
+
+    <item id="comment.ttf" href="Fonts/comment.ttf" media-type="application/x-font-ttf"/>
+<item id="content.otf" href="Fonts/content.otf" media-type="application/vnd.ms-opentype"/>
+<item id="title.ttf" href="Fonts/title.ttf" media-type="application/x-font-ttf"/><item id="styles.css" href="Styles/styles.css" media-type="text/css"/>
+    <item id="p-1.xhtml" href="Text/p-1.xhtml" media-type="application/xhtml+xml"/>
+<item id="p-n-1.xhtml" href="Text/p-n-1.xhtml" media-type="application/xhtml+xml"/>
+<item id="1th-cover.xhtml" href="Text/1th-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="1th.xhtml" href="Text/1th.xhtml" media-type="application/xhtml+xml"/>
+<item id="2th-cover.xhtml" href="Text/2th-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="2th.xhtml" href="Text/2th.xhtml" media-type="application/xhtml+xml"/>
+<item id="gal-cover.xhtml" href="Text/gal-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="gal.xhtml" href="Text/gal.xhtml" media-type="application/xhtml+xml"/>
+<item id="1co-cover.xhtml" href="Text/1co-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="1co.xhtml" href="Text/1co.xhtml" media-type="application/xhtml+xml"/>
+<item id="2co-cover.xhtml" href="Text/2co-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="2co.xhtml" href="Text/2co.xhtml" media-type="application/xhtml+xml"/>
+<item id="rom-cover.xhtml" href="Text/rom-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="rom.xhtml" href="Text/rom.xhtml" media-type="application/xhtml+xml"/>
+<item id="phi-cover.xhtml" href="Text/phi-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="phi.xhtml" href="Text/phi.xhtml" media-type="application/xhtml+xml"/>
+<item id="col-cover.xhtml" href="Text/col-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="col.xhtml" href="Text/col.xhtml" media-type="application/xhtml+xml"/>
+<item id="phm-cover.xhtml" href="Text/phm-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="phm.xhtml" href="Text/phm.xhtml" media-type="application/xhtml+xml"/>
+<item id="eph-cover.xhtml" href="Text/eph-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="eph.xhtml" href="Text/eph.xhtml" media-type="application/xhtml+xml"/>
+<item id="1ti-cover.xhtml" href="Text/1ti-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="1ti.xhtml" href="Text/1ti.xhtml" media-type="application/xhtml+xml"/>
+<item id="2ti-cover.xhtml" href="Text/2ti-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="2ti.xhtml" href="Text/2ti.xhtml" media-type="application/xhtml+xml"/>
+<item id="tit-cover.xhtml" href="Text/tit-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="tit.xhtml" href="Text/tit.xhtml" media-type="application/xhtml+xml"/>
+<item id="p-2.xhtml" href="Text/p-2.xhtml" media-type="application/xhtml+xml"/>
+<item id="p-n-2.xhtml" href="Text/p-n-2.xhtml" media-type="application/xhtml+xml"/>
+<item id="heb-cover.xhtml" href="Text/heb-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="heb.xhtml" href="Text/heb.xhtml" media-type="application/xhtml+xml"/>
+<item id="jas-cover.xhtml" href="Text/jas-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="jas.xhtml" href="Text/jas.xhtml" media-type="application/xhtml+xml"/>
+<item id="1pe-cover.xhtml" href="Text/1pe-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="1pe.xhtml" href="Text/1pe.xhtml" media-type="application/xhtml+xml"/>
+<item id="2pe-cover.xhtml" href="Text/2pe-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="2pe.xhtml" href="Text/2pe.xhtml" media-type="application/xhtml+xml"/>
+<item id="jud-cover.xhtml" href="Text/jud-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="jud.xhtml" href="Text/jud.xhtml" media-type="application/xhtml+xml"/>
+<item id="p-3.xhtml" href="Text/p-3.xhtml" media-type="application/xhtml+xml"/>
+<item id="p-n-3.xhtml" href="Text/p-n-3.xhtml" media-type="application/xhtml+xml"/>
+<item id="mk-cover.xhtml" href="Text/mk-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="mk.xhtml" href="Text/mk.xhtml" media-type="application/xhtml+xml"/>
+<item id="mt-cover.xhtml" href="Text/mt-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="mt.xhtml" href="Text/mt.xhtml" media-type="application/xhtml+xml"/>
+<item id="lk-cover.xhtml" href="Text/lk-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="lk.xhtml" href="Text/lk.xhtml" media-type="application/xhtml+xml"/>
+<item id="act-cover.xhtml" href="Text/act-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="act.xhtml" href="Text/act.xhtml" media-type="application/xhtml+xml"/>
+<item id="p-4.xhtml" href="Text/p-4.xhtml" media-type="application/xhtml+xml"/>
+<item id="p-n-4.xhtml" href="Text/p-n-4.xhtml" media-type="application/xhtml+xml"/>
+<item id="joh-cover.xhtml" href="Text/joh-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="joh.xhtml" href="Text/joh.xhtml" media-type="application/xhtml+xml"/>
+<item id="1jo-cover.xhtml" href="Text/1jo-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="1jo.xhtml" href="Text/1jo.xhtml" media-type="application/xhtml+xml"/>
+<item id="2jo-cover.xhtml" href="Text/2jo-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="2jo.xhtml" href="Text/2jo.xhtml" media-type="application/xhtml+xml"/>
+<item id="3jo-cover.xhtml" href="Text/3jo-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="3jo.xhtml" href="Text/3jo.xhtml" media-type="application/xhtml+xml"/>
+<item id="rev-cover.xhtml" href="Text/rev-cover.xhtml" media-type="application/xhtml+xml"/>
+<item id="rev.xhtml" href="Text/rev.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="info.xhtml"/>
+    <itemref idref="preface.xhtml"/>
+    <itemref idref="reference.xhtml"/>
+    <itemref idref="nav.xhtml"/>
+    <itemref idref="p-1.xhtml"/>
+<itemref idref="p-n-1.xhtml"/>
+<itemref idref="1th-cover.xhtml"/>
+<itemref idref="1th.xhtml"/>
+<itemref idref="2th-cover.xhtml"/>
+<itemref idref="2th.xhtml"/>
+<itemref idref="gal-cover.xhtml"/>
+<itemref idref="gal.xhtml"/>
+<itemref idref="1co-cover.xhtml"/>
+<itemref idref="1co.xhtml"/>
+<itemref idref="2co-cover.xhtml"/>
+<itemref idref="2co.xhtml"/>
+<itemref idref="rom-cover.xhtml"/>
+<itemref idref="rom.xhtml"/>
+<itemref idref="phi-cover.xhtml"/>
+<itemref idref="phi.xhtml"/>
+<itemref idref="col-cover.xhtml"/>
+<itemref idref="col.xhtml"/>
+<itemref idref="phm-cover.xhtml"/>
+<itemref idref="phm.xhtml"/>
+<itemref idref="eph-cover.xhtml"/>
+<itemref idref="eph.xhtml"/>
+<itemref idref="1ti-cover.xhtml"/>
+<itemref idref="1ti.xhtml"/>
+<itemref idref="2ti-cover.xhtml"/>
+<itemref idref="2ti.xhtml"/>
+<itemref idref="tit-cover.xhtml"/>
+<itemref idref="tit.xhtml"/>
+<itemref idref="p-2.xhtml"/>
+<itemref idref="p-n-2.xhtml"/>
+<itemref idref="heb-cover.xhtml"/>
+<itemref idref="heb.xhtml"/>
+<itemref idref="jas-cover.xhtml"/>
+<itemref idref="jas.xhtml"/>
+<itemref idref="1pe-cover.xhtml"/>
+<itemref idref="1pe.xhtml"/>
+<itemref idref="2pe-cover.xhtml"/>
+<itemref idref="2pe.xhtml"/>
+<itemref idref="jud-cover.xhtml"/>
+<itemref idref="jud.xhtml"/>
+<itemref idref="p-3.xhtml"/>
+<itemref idref="p-n-3.xhtml"/>
+<itemref idref="mk-cover.xhtml"/>
+<itemref idref="mk.xhtml"/>
+<itemref idref="mt-cover.xhtml"/>
+<itemref idref="mt.xhtml"/>
+<itemref idref="lk-cover.xhtml"/>
+<itemref idref="lk.xhtml"/>
+<itemref idref="act-cover.xhtml"/>
+<itemref idref="act.xhtml"/>
+<itemref idref="p-4.xhtml"/>
+<itemref idref="p-n-4.xhtml"/>
+<itemref idref="joh-cover.xhtml"/>
+<itemref idref="joh.xhtml"/>
+<itemref idref="1jo-cover.xhtml"/>
+<itemref idref="1jo.xhtml"/>
+<itemref idref="2jo-cover.xhtml"/>
+<itemref idref="2jo.xhtml"/>
+<itemref idref="3jo-cover.xhtml"/>
+<itemref idref="3jo.xhtml"/>
+<itemref idref="rev-cover.xhtml"/>
+<itemref idref="rev.xhtml"/>
+  </spine>
+  <guide>
+  </guide>
+</package>

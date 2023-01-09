@@ -1,0 +1,13 @@
+{
+  "name": "epub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "work": "./prepare-book.sh cn && ./prepare-book.sh tw && ./prepare-book.sh cn -nc && ./prepare-book.sh tw -nc && ./prepare-style.sh && ./prepare-font.sh cn && ./prepare-font.sh tw",
+    "pack": "./merge.sh cn -nc && ./pack.sh cn -nc && ./merge.sh cn && ./pack.sh cn && ./merge.sh tw -nc && ./pack.sh tw -nc && ./merge.sh tw && ./pack.sh tw && ./update.sh cn -nc && ./update.sh cn && ./update.sh tw -nc && ./update.sh tw"
+  },
+  "author": "",
+  "license": "ISC"
+}
