@@ -132,6 +132,9 @@ mark.greek {
   font-size: 0.8rem;
   font-family: greekfont;
 }
+.preface-para > mark.greek {
+  font-size: 1rem;
+}
 
 .book-link {
   color: unset;
