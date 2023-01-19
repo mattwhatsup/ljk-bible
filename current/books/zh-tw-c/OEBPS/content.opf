@@ -37,6 +37,7 @@
 		<item id="cover.xhtml" href="Text/cover.xhtml" media-type="application/xhtml+xml" />
 		<item id="comment.ttf" href="Fonts/comment.ttf" media-type="application/x-font-ttf" />
 		<item id="content.otf" href="Fonts/content.otf" media-type="application/vnd.ms-opentype" />
+		<item id="gigi.ttf" href="Fonts/gigi.ttf" media-type="application/x-font-ttf" />
 		<item id="title.ttf" href="Fonts/title.ttf" media-type="application/x-font-ttf" />
 		<item id="styles.css" href="Styles/styles.css" media-type="text/css" />
 		<item id="p-1.xhtml" href="Text/p-1.xhtml" media-type="application/xhtml+xml" />
