@@ -19,3 +19,7 @@
   font-family: 'hebrewfont';
   src: url(../Fonts/Helvetica.ttf);
 }
+@font-face {
+  font-family: 'gigi';
+  src: url(../Fonts/gigi.ttf);
+}
