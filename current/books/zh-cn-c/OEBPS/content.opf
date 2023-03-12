@@ -13,6 +13,8 @@
 		<creator opf:role="aut">
 			梁家铿译本
 		</creator>
+		<dc:title>新约圣经(注释版)</dc:title>
+    <dc:creator opf:file-as="梁家铿译本" opf:role="aut">梁家铿译本</dc:creator>
 		<meta content="0.9.10" name="Sigil version" />
 		<date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">
 			2023-01-06

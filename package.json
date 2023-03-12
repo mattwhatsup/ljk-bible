@@ -10,7 +10,8 @@
     "pack:cn": "./merge.sh cn && ./pack.sh cn",
     "pack:cn:nc": "./merge.sh cn -nc && ./pack.sh cn -nc",
     "pack:tw": "./merge.sh tw && ./pack.sh tw",
-    "pack:tw:nc": "./merge.sh tw -nc && ./pack.sh tw -nc"
+    "pack:tw:nc": "./merge.sh tw -nc && ./pack.sh tw -nc",
+    "finish": "rm ./build/* && npm run pack && ./rename.sh"
   },
   "author": "",
   "license": "ISC"
