@@ -1,259 +1,329 @@
 <?xml version="1.0" encoding="utf-8"?>
-  <!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
-  <ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
-    <head>
-      <meta content="urn:uuid:fe8910a5-330f-4fd9-be53-30053540ce81" name="dtb:uid" />
-      <meta content="2" name="dtb:depth" />
-      <meta content="0" name="dtb:totalPageCount" />
-      <meta content="0" name="dtb:maxPageNumber" />
-    </head>
-    <docTitle>
-      <text>
-        Bible
-      </text>
-    </docTitle>
-    <navMap>
-    <navPoint id="navPoint-1" playOrder="2">
-      <navLabel>
-        <text>自序</text>
-      </navLabel>
-      <content src="Text/preface.xhtml"/>
-    </navPoint>
-
-    <navPoint id="navPoint-3" playOrder="4">
-      <navLabel>
-        <text>参考书目</text>
-      </navLabel>
-      <content src="Text/reference.xhtml"/>
-    </navPoint>
-
-    <navPoint id="navPoint-5" playOrder="6">
-      <navLabel>
-        <text>目录</text>
-      </navLabel>
-      <content src="Text/nav.xhtml"/>
-    </navPoint>
-
-    
-        <navPoint id="navPoint-7" playOrder="7">
-          <navLabel>
-            <text>第一部 保罗书信</text>
-          </navLabel>
-          <!-- 第一部 -->
-          <content src="Text/p-1.xhtml"/>
-            <navPoint id="navPoint-8" playOrder="8">
-                            <navLabel>
-                              <text>帖撒罗尼迦前书</text>
-                            </navLabel>
-                            <!-- 帖撒罗尼迦前书-cover -->
-                            <content src="Text/1th-cover.xhtml"/>
-                          </navPoint>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+<head>
+<meta content="urn:uuid:fe8910a5-330f-4fd9-be53-30053540ce81" name="dtb:uid" />
+<meta content="2" name="dtb:depth" />
+<meta content="0" name="dtb:totalPageCount" />
+<meta content="0" name="dtb:maxPageNumber" />
+</head>
+<docTitle>
+<text>
+Bible
+</text>
+</docTitle>
+<navMap>
+<navPoint id="navPoint-1" playOrder="2">
+<navLabel>
+<text>
+自序
+</text>
+</navLabel>
+<content src="Text/preface.xhtml" />
+</navPoint>
+<navPoint id="navPoint-3" playOrder="4">
+<navLabel>
+<text>
+参考书目
+</text>
+</navLabel>
+<content src="Text/reference.xhtml" />
+</navPoint>
+<navPoint id="navPoint-4" playOrder="5">
+<navLabel>
+<text>
+书卷成书日期
+</text>
+</navLabel>
+<content src="Text/order.xhtml" />
+</navPoint>
+<navPoint id="navPoint-5" playOrder="6">
+<navLabel>
+<text>
+目录
+</text>
+</navLabel>
+<content src="Text/nav.xhtml" />
+</navPoint>
+<navPoint id="navPoint-7" playOrder="7">
+<navLabel>
+<text>
+第一部 保罗书信
+</text>
+</navLabel>
+<!-- 第一部 -->
+<content src="Text/p-1.xhtml" />
+<navPoint id="navPoint-8" playOrder="8">
+<navLabel>
+<text>
+帖撒罗尼迦前书
+</text>
+</navLabel>
+<!-- 帖撒罗尼迦前书-cover -->
+<content src="Text/1th-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-9" playOrder="9">
-                            <navLabel>
-                              <text>帖撒罗尼迦后书</text>
-                            </navLabel>
-                            <!-- 帖撒罗尼迦后书-cover -->
-                            <content src="Text/2th-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+帖撒罗尼迦后书
+</text>
+</navLabel>
+<!-- 帖撒罗尼迦后书-cover -->
+<content src="Text/2th-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-10" playOrder="10">
-                            <navLabel>
-                              <text>加拉太书</text>
-                            </navLabel>
-                            <!-- 加拉太书-cover -->
-                            <content src="Text/gal-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+加拉太书
+</text>
+</navLabel>
+<!-- 加拉太书-cover -->
+<content src="Text/gal-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-11" playOrder="11">
-                            <navLabel>
-                              <text>哥林多前书</text>
-                            </navLabel>
-                            <!-- 哥林多前书-cover -->
-                            <content src="Text/1co-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+哥林多前书
+</text>
+</navLabel>
+<!-- 哥林多前书-cover -->
+<content src="Text/1co-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-12" playOrder="12">
-                            <navLabel>
-                              <text>哥林多后书</text>
-                            </navLabel>
-                            <!-- 哥林多后书-cover -->
-                            <content src="Text/2co-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+哥林多后书
+</text>
+</navLabel>
+<!-- 哥林多后书-cover -->
+<content src="Text/2co-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-13" playOrder="13">
-                            <navLabel>
-                              <text>罗马书</text>
-                            </navLabel>
-                            <!-- 罗马书-cover -->
-                            <content src="Text/rom-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+罗马书
+</text>
+</navLabel>
+<!-- 罗马书-cover -->
+<content src="Text/rom-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-14" playOrder="14">
-                            <navLabel>
-                              <text>腓立比书</text>
-                            </navLabel>
-                            <!-- 腓立比书-cover -->
-                            <content src="Text/phi-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+腓立比书
+</text>
+</navLabel>
+<!-- 腓立比书-cover -->
+<content src="Text/phi-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-15" playOrder="15">
-                            <navLabel>
-                              <text>歌罗西书</text>
-                            </navLabel>
-                            <!-- 歌罗西书-cover -->
-                            <content src="Text/col-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+歌罗西书
+</text>
+</navLabel>
+<!-- 歌罗西书-cover -->
+<content src="Text/col-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-16" playOrder="16">
-                            <navLabel>
-                              <text>腓利门书</text>
-                            </navLabel>
-                            <!-- 腓利门书-cover -->
-                            <content src="Text/phm-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+腓利门书
+</text>
+</navLabel>
+<!-- 腓利门书-cover -->
+<content src="Text/phm-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-17" playOrder="17">
-                            <navLabel>
-                              <text>以弗所书</text>
-                            </navLabel>
-                            <!-- 以弗所书-cover -->
-                            <content src="Text/eph-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+以弗所书
+</text>
+</navLabel>
+<!-- 以弗所书-cover -->
+<content src="Text/eph-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-18" playOrder="18">
-                            <navLabel>
-                              <text>提摩太前书</text>
-                            </navLabel>
-                            <!-- 提摩太前书-cover -->
-                            <content src="Text/1ti-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+提摩太前书
+</text>
+</navLabel>
+<!-- 提摩太前书-cover -->
+<content src="Text/1ti-cover.xhtml" />
+</navPoint>
+      <navPoint id="navPoint-20" playOrder="20">
+<navLabel>
+<text>
+提多书
+</text>
+</navLabel>
+<!-- 提多书-cover -->
+<content src="Text/tit-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-19" playOrder="19">
-                            <navLabel>
-                              <text>提摩太后书</text>
-                            </navLabel>
-                            <!-- 提摩太后书-cover -->
-                            <content src="Text/2ti-cover.xhtml"/>
-                          </navPoint>
-<navPoint id="navPoint-20" playOrder="20">
-                            <navLabel>
-                              <text>提多书</text>
-                            </navLabel>
-                            <!-- 提多书-cover -->
-                            <content src="Text/tit-cover.xhtml"/>
-                          </navPoint>
-        </navPoint>
+<navLabel>
+<text>
+提摩太后书
+</text>
+</navLabel>
+<!-- 提摩太后书-cover -->
+<content src="Text/2ti-cover.xhtml" />
+</navPoint>
 
-        <navPoint id="navPoint-21" playOrder="21">
-          <navLabel>
-            <text>第二部 其他书信</text>
-          </navLabel>
-          <!-- 第二部 -->
-          <content src="Text/p-2.xhtml"/>
-            <navPoint id="navPoint-22" playOrder="22">
-                            <navLabel>
-                              <text>希伯来书</text>
-                            </navLabel>
-                            <!-- 希伯来书-cover -->
-                            <content src="Text/heb-cover.xhtml"/>
-                          </navPoint>
+</navPoint>
+<navPoint id="navPoint-21" playOrder="21">
+<navLabel>
+<text>
+第二部 其他书信
+</text>
+</navLabel>
+<!-- 第二部 -->
+<content src="Text/p-2.xhtml" />
+<navPoint id="navPoint-22" playOrder="22">
+<navLabel>
+<text>
+希伯来书
+</text>
+</navLabel>
+<!-- 希伯来书-cover -->
+<content src="Text/heb-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-23" playOrder="23">
-                            <navLabel>
-                              <text>雅各书</text>
-                            </navLabel>
-                            <!-- 雅各书-cover -->
-                            <content src="Text/jas-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+雅各书
+</text>
+</navLabel>
+<!-- 雅各书-cover -->
+<content src="Text/jas-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-24" playOrder="24">
-                            <navLabel>
-                              <text>彼得前书</text>
-                            </navLabel>
-                            <!-- 彼得前书-cover -->
-                            <content src="Text/1pe-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+彼得前书
+</text>
+</navLabel>
+<!-- 彼得前书-cover -->
+<content src="Text/1pe-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-25" playOrder="25">
-                            <navLabel>
-                              <text>彼得后书</text>
-                            </navLabel>
-                            <!-- 彼得后书-cover -->
-                            <content src="Text/2pe-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+彼得后书
+</text>
+</navLabel>
+<!-- 彼得后书-cover -->
+<content src="Text/2pe-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-26" playOrder="26">
-                            <navLabel>
-                              <text>犹大书</text>
-                            </navLabel>
-                            <!-- 犹大书-cover -->
-                            <content src="Text/jud-cover.xhtml"/>
-                          </navPoint>
-        </navPoint>
-
-        <navPoint id="navPoint-27" playOrder="27">
-          <navLabel>
-            <text>第三部 对观福音书 使徒行传</text>
-          </navLabel>
-          <!-- 第三部 -->
-          <content src="Text/p-3.xhtml"/>
-            <navPoint id="navPoint-28" playOrder="28">
-                            <navLabel>
-                              <text>马可福音</text>
-                            </navLabel>
-                            <!-- 马可福音-cover -->
-                            <content src="Text/mk-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+犹大书
+</text>
+</navLabel>
+<!-- 犹大书-cover -->
+<content src="Text/jud-cover.xhtml" />
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-27" playOrder="27">
+<navLabel>
+<text>
+第三部 对观福音书 使徒行传
+</text>
+</navLabel>
+<!-- 第三部 -->
+<content src="Text/p-3.xhtml" />
+<navPoint id="navPoint-28" playOrder="28">
+<navLabel>
+<text>
+马可福音
+</text>
+</navLabel>
+<!-- 马可福音-cover -->
+<content src="Text/mk-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-29" playOrder="29">
-                            <navLabel>
-                              <text>马太福音</text>
-                            </navLabel>
-                            <!-- 马太福音-cover -->
-                            <content src="Text/mt-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+马太福音
+</text>
+</navLabel>
+<!-- 马太福音-cover -->
+<content src="Text/mt-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-30" playOrder="30">
-                            <navLabel>
-                              <text>路加福音</text>
-                            </navLabel>
-                            <!-- 路加福音-cover -->
-                            <content src="Text/lk-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+路加福音
+</text>
+</navLabel>
+<!-- 路加福音-cover -->
+<content src="Text/lk-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-31" playOrder="31">
-                            <navLabel>
-                              <text>使徒行传</text>
-                            </navLabel>
-                            <!-- 使徒行传-cover -->
-                            <content src="Text/act-cover.xhtml"/>
-                          </navPoint>
-        </navPoint>
-
-        <navPoint id="navPoint-32" playOrder="32">
-          <navLabel>
-            <text>第四部 约翰福音 约翰书信 启示录</text>
-          </navLabel>
-          <!-- 第四部 -->
-          <content src="Text/p-4.xhtml"/>
-            <navPoint id="navPoint-33" playOrder="33">
-                            <navLabel>
-                              <text>约翰福音</text>
-                            </navLabel>
-                            <!-- 约翰福音-cover -->
-                            <content src="Text/joh-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+使徒行传
+</text>
+</navLabel>
+<!-- 使徒行传-cover -->
+<content src="Text/act-cover.xhtml" />
+</navPoint>
+</navPoint>
+<navPoint id="navPoint-32" playOrder="32">
+<navLabel>
+<text>
+第四部 约翰福音 约翰书信 启示录
+</text>
+</navLabel>
+<!-- 第四部 -->
+<content src="Text/p-4.xhtml" />
+<navPoint id="navPoint-33" playOrder="33">
+<navLabel>
+<text>
+约翰福音
+</text>
+</navLabel>
+<!-- 约翰福音-cover -->
+<content src="Text/joh-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-34" playOrder="34">
-                            <navLabel>
-                              <text>约翰一书</text>
-                            </navLabel>
-                            <!-- 约翰一书-cover -->
-                            <content src="Text/1jo-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+约翰一书
+</text>
+</navLabel>
+<!-- 约翰一书-cover -->
+<content src="Text/1jo-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-35" playOrder="35">
-                            <navLabel>
-                              <text>约翰二书</text>
-                            </navLabel>
-                            <!-- 约翰二书-cover -->
-                            <content src="Text/2jo-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+约翰二书
+</text>
+</navLabel>
+<!-- 约翰二书-cover -->
+<content src="Text/2jo-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-36" playOrder="36">
-                            <navLabel>
-                              <text>约翰三书</text>
-                            </navLabel>
-                            <!-- 约翰三书-cover -->
-                            <content src="Text/3jo-cover.xhtml"/>
-                          </navPoint>
+<navLabel>
+<text>
+约翰三书
+</text>
+</navLabel>
+<!-- 约翰三书-cover -->
+<content src="Text/3jo-cover.xhtml" />
+</navPoint>
 <navPoint id="navPoint-37" playOrder="37">
-                            <navLabel>
-                              <text>启示录</text>
-                            </navLabel>
-                            <!-- 启示录-cover -->
-                            <content src="Text/rev-cover.xhtml"/>
-                          </navPoint>
-        </navPoint>
-  </navMap>
-  </ncx>
+<navLabel>
+<text>
+启示录
+</text>
+</navLabel>
+<!-- 启示录-cover -->
+<content src="Text/rev-cover.xhtml" />
+</navPoint>
+</navPoint>
+</navMap>
+</ncx>
