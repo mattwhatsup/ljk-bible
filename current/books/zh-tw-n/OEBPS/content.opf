@@ -1,29 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package version="2.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
 	<metadata xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<language>
-			en
-		</language>
-		<language>
-			zh-tw
-		</language>
-		<title>
-			新約聖經(無註釋版)
-		</title>
-		<creator opf:role="aut">
-			梁家鏗譯本
-		</creator>
-		<dc:title>新約聖經(無註釋版)</dc:title>
     <dc:creator opf:file-as="梁家鏗譯本" opf:role="aut">梁家鏗譯本</dc:creator>
 		<meta content="0.9.10" name="Sigil version" />
-		<date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">
-			2023-04-26
-		</date>
+		<dc:date xmlns:opf="http://www.idpf.org/2007/opf" opf:event="modification">2023-04-26</dc:date>
 		<meta content="true" name="ibooks:specified-fonts" />
 		<meta name="cover" content="cover.jpg" />
-		<identifier id="BookId" opf:scheme="UUID">
-			urn:uuid:2063e89c-f3ae-490b-a82b-d6cabf188ecc
-		</identifier>
+		<dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:2063e89c-f3ae-490b-a82b-d6cabf188ecc</dc:identifier>
 	</metadata>
 	<manifest>
 		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
