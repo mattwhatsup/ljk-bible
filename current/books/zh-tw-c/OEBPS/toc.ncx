@@ -317,10 +317,10 @@ Bible
 <navPoint id="navPoint-37" playOrder="37">
 <navLabel>
 <text>
-啓示錄
+啟示錄
 </text>
 </navLabel>
-<!-- 啓示錄-cover -->
+<!-- 啟示錄-cover -->
 <content src="Text/rev-cover.xhtml" />
 </navPoint>
 </navPoint>
